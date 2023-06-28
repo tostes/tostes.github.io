@@ -21,5 +21,5 @@ Desenvolvimeto de aplicações web e desktop. Também atuamos com sistemas legad
 Alocamos mão de obra estrangeira para o seu projeto e fazemos toda a interface de controle de atividades e pagamentos.
 
 # Contato
-contato@tostestec.com.br
-[whatsApp](https://wa.me/5521991385120)
+- contato@tostestec.com.br
+- [whatsApp](https://wa.me/5521991385120)
